@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhanideepV
-- 👀 I’m interested in ...Predictive Data Analytics
-- 🌱 I’m currently learning ...Python Scripting and Data Analytics
+- 👀 I’m interested in ...working as an SRE
+- 🌱 I’m currently learning ...Ansible
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
